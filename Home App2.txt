@@ -1,0 +1,4 @@
+// Home Appliences
+
+
+npx expo install react-native-slider react-native-color-picker
